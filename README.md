@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm a Computer Science student.<br>How to reach me: catalinaborda38@gmail.com
+
 
 
 ## 🌐 Socials:
